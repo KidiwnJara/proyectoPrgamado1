@@ -8,6 +8,7 @@ package general;
 /**
  *
  * @author kidiwnjt
+ * avance general del proyecto
  */
 public class Proyecto1 
 {

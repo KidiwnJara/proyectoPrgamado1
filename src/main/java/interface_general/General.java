@@ -8,6 +8,7 @@ package interface_general;
 /**
  *
  * @author kidiwnjt
+ * intefaf grafica del proyecto
  */
 public interface General {
     
